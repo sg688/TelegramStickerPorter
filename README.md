@@ -3,7 +3,7 @@
 > 一个优雅且高效的 Telegram 贴纸 / 表情克隆工具
 > 支持 **贴纸包搬运**、**表情包克隆**，一键转移，极简操作！
 >
-> 演示机器人 [@StickerPorter_Bot](https://t.me/StickerPorter_Bot)
+> 演示机器人 [@CloneEmojiBot](https://t.me/CloneEmojiBot)
 
 ------
 
@@ -16,23 +16,15 @@
 - 🔐 使用 Telegram Bot API，简单配置即可部署
 
 - 🧩 本软件免费无毒，可在虚拟机中运行进行长期挂机。
-- ❤️ 有问题请联系 Telegram：https://t.me/Riniba
-- 🗨️ Telegram交流群组 https://t.me/RinibaGroup
+- ❤️ 有问题请联系 Telegram：https://t.me/v8btc
 
 ------
-
-### AD -- 机场推广
-
-
-
-**机场 - 老百姓自己的机场**：[https://老百姓自己的机场.com](https://xn--mes53dm4ex3lhhtdb891k3sd.com/)
-咱老百姓就得用自己的机场 **老百姓自己的机场** 做用的起的机场
 
 
 
 ## 🛠 环境要求
 
-- 最新发布版下载：https://github.com/Riniba/TelegramStickerPorter/releases/latest
+- 最新发布版下载：https://github.com/sg688/TelegramStickerPorter/releases/latest
 - 发布包提供常见的系统版本已经包含运行时。
 - 如需其他可自行编译
 - 请注意 使用时需具备**全局代理**或能**直连 Telegram**。
